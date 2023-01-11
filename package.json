@@ -9,7 +9,7 @@
   },
   "license": "ISC",
   "dependencies": {
-    "knex": "^0.19.5",
+    "knex": "^2.4.0",
     "sqlite3": "^4.0.4"
   },
   "devDependencies": {
